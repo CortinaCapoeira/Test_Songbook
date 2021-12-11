@@ -59,4 +59,6 @@ div.menu{
     -webkit-text-orientation: upright;
     float: right;
     color: #B0C4DE;
+    border-style: none solid none none;
+    border-color: #232642;
 }
