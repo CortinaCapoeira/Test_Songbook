@@ -19,6 +19,8 @@ div.nav:hover{
 div.nav:hover>div.menu{
     left: 0;
     display: none;
+    border-style: none solid none none;
+    border-color: #232642;
 }
 
 div.nav li a{
