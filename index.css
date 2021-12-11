@@ -32,4 +32,5 @@ div.pagination a:hover {
 div.pagination{
     width: 80vw;
     margin: auto;
+    text-align: center;
 }
