@@ -14,6 +14,8 @@ div.nav{
 div.nav:hover{
     left: 0;
     background-color: #B0C4DE;
+    border-style: none solid none none;
+    border-color: #232642;
 }
 
 div.nav:hover>div.menu{
@@ -29,8 +31,6 @@ div.nav li a{
     padding: 8px 16px;
     text-decoration: none;
     transition: 0.5s; /* 0.5 second transition effect to slide in the sidenav */ 
-    border-style: none solid none none;
-    border-color: #232642;
 }
 
 div.nav ul {
