@@ -22,8 +22,9 @@ div.pagination a {
     padding: 8px 16px;
     text-decoration: none;
     transition: background-color .3s;
-    width: auto;
-    margin: auto;
+    width: 80em;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 div.pagination a:hover {
