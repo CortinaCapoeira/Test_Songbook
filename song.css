@@ -7,6 +7,8 @@ div.FortmattingDiv{
 div.song{
     display: table;
     font-size: 1em;
+    margin: auto;
+    width: 90vw;
 }
 
 div.row{
@@ -16,7 +18,6 @@ div.row{
 
 div.cell{
     display: table-cell;
-    width: auto;
     float:left;
     width: 50%;
     min-height: 1em;
