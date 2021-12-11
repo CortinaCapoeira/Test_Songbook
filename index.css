@@ -28,3 +28,8 @@ div.pagination a:hover {
     color:#B0C4DE;
     background-color: #232642;
 }
+
+div.pagination{
+    width: 80vw;
+    margin: auto;
+}
