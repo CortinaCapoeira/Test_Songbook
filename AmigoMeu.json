@@ -1,0 +1,19 @@
+{
+	"title": "Amigo Meu",
+	"lines":[
+		{"br":"Amigo meu foi bom","en":"My friend it was good"},
+		{"br":"Ter voce aqui camara","en":"To have you here, comrade"},
+    {"br":"Ter voce aqui camara","en":"To have you here, comrade"},
+		{"br":"Ter voce aqui","en":"to have you here"},
+		{"br":"","en":""},
+    {"br":"Amigo meu foi bom","en":"My friend it was good","bold":true},
+    {"br":"Ter voce aqui camara","en":"To have you here, comrade","bold":true},
+    {"br":"Ter voce aqui camara","en":"To have you here, comrade","bold":true},
+		{"br":"Ter voce aqui","en":"to have you here","bold":true},
+    {"br":" ","en":" "},
+    {"br":"Vamos vadiar","en":"Let's play"},
+    {"br":"Jogar capoeira na beira so mar","en":"Play capoeira by the sea","bold":true},
+    {"br":"Vamos vadiar","en":"Let's play"},
+    {"br":"Jogar capoeira na beira so mar","en":"Play capoeira by the sea","bold":true}
+	]
+}
