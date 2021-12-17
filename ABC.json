@@ -1,8 +1,8 @@
 {
 	"title": "A,B,C",
 	"lines":[
-		{"br":E&#769 o A, E&#769 o B, E&#769 o A, E&#769 o B, E&#769 o C","en":"It's A, it's B, it's A, it's B, it's C"},
-    		{"br":E&#769 o A, E&#769 o B, E&#769 o A, E&#769 o B, E&#769 o C","en":"It's A, it's B, it's A, it's B, it's C","bold":true},
+		{"br": ́É o A, É o B, É o A, É o B, É o C","en":"It's A, it's B, it's A, it's B, it's C"},
+    		{"br":É o A, É o B, É o A, É o B, É o C","en":"It's A, it's B, it's A, it's B, it's C","bold":true},
    		{"br":" ","en":" "},
 		{"br":"A de Atabaque","en":"A for Atabaque"},
 		{"br":"B do Berimbau","en":"B for Berimbau"},
