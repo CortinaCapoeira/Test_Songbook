@@ -1,0 +1,17 @@
+{
+	"title": "A,B,C",
+	"lines":[
+		{"br":"\'{E} o A, \'{e} o B, \'{E} o A, \'{E} o B, \'{E} o C","en":"It's A, it's B, it's A, it's B, it's C"},
+    {"br":"\'{E} o A, \'{e} o B, \'{E} o A, \'{E} o B, \'{E} o C","en":"It's A, it's B, it's A, it's B, it's C","bold":true},
+    {"br":" ","en":" "},
+		{"br":"A de Atabaque","en":"A for Atabaque"},
+		{"br":"B do Berimbau","en":"B for Berimbau"},
+		{"br":"C da Capoeira","en":"C for Capoeira"},
+    {"br":" ","en":" "},
+    {"br":"A de Atabaque","en":"A for Atabaque","bold":true},
+		{"br":"B do Berimbau","en":"B for Berimbau","bold":true},
+		{"br":"C da Capoeira","en":"C for Capoeira","bold":true},
+	]
+}
+
+	
